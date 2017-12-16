@@ -17,7 +17,24 @@
  
  */
 // Answer question 6 below
+let targetDistance = 0.9
+var currentDistanceRun = 0.45
 
+if currentDistanceRun == 0.1 {
+    print("Great start, keep it up!")
+}
+if currentDistanceRun == 0.45-0.5 {
+    print("You're almost at halfway!")
+}
+if currentDistanceRun == 0.5 {
+    print("Halfway there!")
+}
+if currentDistanceRun == 0.9-0.99 {
+    print("Nearly done!")
+}
+if currentDistanceRun == 1.0 {
+    print("GREAT JOB! You're finished the run.")
+}
 
 /*:
  ## Now share your understanding
