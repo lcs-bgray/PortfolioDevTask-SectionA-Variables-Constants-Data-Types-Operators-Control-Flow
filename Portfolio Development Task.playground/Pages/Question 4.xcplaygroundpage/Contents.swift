@@ -19,8 +19,11 @@
  
  */
 // Answer question 4 below
-var moneyIHaveEarned = 0
-
+let badJoke = 5.0
+let rapSong = -2.0
+let singImALittleTeapot = 4.0
+let smileAndWave = 0.75 * 13
+var moneyIHaveEarned = 0 + badJoke + rapSong * singImALittleTeapot + smileAndWave
 /*:
  ## Now share your understanding
  

@@ -17,19 +17,58 @@
  
  */
 // Answer question 6 below
-let targetDistance = 0.9
-var currentDistanceRun = 0.45
+let targetDistance = 1.0
+var currentDistanceRun = Double()
 
 if currentDistanceRun == 0.1 {
     print("Great start, keep it up!")
 }
-if currentDistanceRun == 0.45-0.5 {
+if currentDistanceRun == 0.45 {
+    print("You're almost at halfway!")
+}
+if currentDistanceRun == 0.46 {
+    print("You're almost at halfway!")
+}
+if currentDistanceRun == 0.47 {
+    print("You're almost at halfway!")
+}
+if currentDistanceRun == 0.48 {
+    print("You're almost at halfway!")
+}
+if currentDistanceRun == 0.49 {
     print("You're almost at halfway!")
 }
 if currentDistanceRun == 0.5 {
     print("Halfway there!")
 }
-if currentDistanceRun == 0.9-0.99 {
+if currentDistanceRun == 0.9 {
+    print("Nearly done!")
+}
+if currentDistanceRun == 0.91 {
+    print("Nearly done!")
+}
+if currentDistanceRun == 0.92 {
+    print("Nearly done!")
+}
+if currentDistanceRun == 0.93 {
+    print("Nearly done!")
+}
+if currentDistanceRun == 0.94 {
+    print("Nearly done!")
+}
+if currentDistanceRun == 0.95 {
+    print("Nearly done!")
+}
+if currentDistanceRun == 0.96 {
+    print("Nearly done!")
+}
+if currentDistanceRun == 0.97 {
+    print("Nearly done!")
+}
+if currentDistanceRun == 0.98 {
+    print("Nearly done!")
+}
+if currentDistanceRun == 0.99 {
     print("Nearly done!")
 }
 if currentDistanceRun == 1.0 {
