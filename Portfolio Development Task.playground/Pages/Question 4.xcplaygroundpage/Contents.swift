@@ -19,6 +19,7 @@
  
  */
 // Answer question 4 below
+var moneyIHaveEarned = 0
 
 /*:
  ## Now share your understanding
