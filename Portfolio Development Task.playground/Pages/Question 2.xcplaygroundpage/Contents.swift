@@ -17,6 +17,10 @@
  
  */
 // Answer question 2 below
+let albumName = String("Ukulele Hero")
+var copiesSold = 100
+let suggestedSellingPrice = 9.99
+
 
 /*:
  ## Now share your understanding
