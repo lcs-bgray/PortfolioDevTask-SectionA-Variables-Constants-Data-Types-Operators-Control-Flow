@@ -21,6 +21,7 @@ if teachesPhysics,isMale == true, neverEverSarcastic == false{
 else {
     print("Hmm, need more data to be sure.")
 }
+
 /*:
  ## Now share your understanding
  

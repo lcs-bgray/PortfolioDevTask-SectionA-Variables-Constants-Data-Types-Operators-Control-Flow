@@ -74,7 +74,6 @@ if currentDistanceRun == 0.99 {
 if currentDistanceRun == 1.0 {
     print("GREAT JOB! You're finished the run.")
 }
-
 /*:
  ## Now share your understanding
  
